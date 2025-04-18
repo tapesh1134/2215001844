@@ -4,7 +4,8 @@
     git clone https://github.com/tapesh1134/2215001844.git
 2. Navigate to the project directory:
     cd 2215001844
-3. Install dependencies:
+    cd task 1
+4. Install dependencies:
     npm install
 
 ## Usage
